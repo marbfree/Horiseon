@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* changed <div> to header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,12 +16,14 @@ header {
     color: #ffffff;
 }
 
+/* changed to <h1> */
 h1 {
     display: inline-block;
     font-size: 48px;
     color: #d9dcd6;
 }
 
+/* changed <div> to nav */
 header nav{
     padding-top: 15px;
     margin-right: 20px;
@@ -29,6 +32,7 @@ header nav{
     font-size: 20px;
 }
 
+/* Consolidated <ul> and <li> */
 li {
     display: inline-block;
     margin-left: 25px;
@@ -38,10 +42,6 @@ li {
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -69,6 +69,11 @@ p {
     margin-left: 20px;
 }
 
+p {
+    font-size: 16px;
+}
+
+/* Changed class name to consolidate */
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -78,10 +83,12 @@ p {
     color: #ffffff;
 }
 
+/* Consolidated into class, img */
 .main-content img  {
     max-height: 215px;
 }
 
+/* Consolidated into class, h2 */
 .main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -98,22 +105,26 @@ p {
     background-color: #2589bd;
 }
 
+/* Created and consolidated class */
 .min-content {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Consolidated class, h3 */
 .min-content h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Consolidated class, <img> */
 .min-content img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Created <footer> */
 footer {
     padding: 30px;
     clear: both;
@@ -121,6 +132,7 @@ footer {
     text-align: center;
 }
 
+/* Changed to <h4> */
 h4 {
     font-size: 20px;
 }
