@@ -8,8 +8,6 @@ To create accessibility so the site is optimized for search engines.  I built th
 
 Thank you to my tutor, Sangeetha Kaliaperumal, for validating my understanding of the project and for overseeing some of the changes I made to the main body in HTML and CSS.
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
 ## Features
 
 Comments in the CSS section to note any changes.  Accessibility features for search engine optimization.  Usable links.
