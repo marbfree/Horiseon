@@ -11,3 +11,12 @@ Thank you to my tutor, Sangeetha Kaliaperumal, for validating my understanding o
 ## Features
 
 Comments in the CSS section to note any changes.  Accessibility features for search engine optimization.  Usable links.
+
+## Usage
+
+https://marbfree.github.io/Horiseon/
+
+
+![Commits](Screenshots/Commit Screenshot 1.png "Commits made to Repo)
+
+![Commits](Screenshots/assets/images/Commit Screenshot 2.png "Commits made to Repo)
