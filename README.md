@@ -17,6 +17,6 @@ Comments in the CSS section to note any changes.  Accessibility features for sea
 https://marbfree.github.io/Horiseon/
 
 
-![Commits](Screenshots/Commit Screenshot 1.png "Commits made to Repo)
+![Commits](Screenshots/https://github.com/marbfree/Horiseon/blob/main/assets/images/Commit%20Screenshot%201.png "Commits made to Repo)
 
-![Commits](Screenshots/assets/images/Commit Screenshot 2.png "Commits made to Repo)
+![Commits](Screenshots/https://github.com/marbfree/Horiseon/blob/main/assets/images/Commit%20Screenshot%202.png "Commits made to Repo)
